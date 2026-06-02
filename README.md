@@ -8,6 +8,6 @@
 
 - **Minha Alteraçao:** adaldlakhd
 
- **Sugestão:** [Texto do Link](caminho-para-o-arquivo-ou-pasta)
+ **Sugestão:** [prompts/prompt-ask.md](prompts/prompt-ask.md)
 
 
