@@ -1,4 +1,4 @@
-# Meu Primeiro Copiloto
+#Modos do Copiloto (Ask, Edit, Plan, Agent e Study)
 
 O modo Ask é para fazer perguntas e entender coisas, sem alterar seu código . Você pode perguntar sobre um arquivo específico, um erro, uma função, um stack trace ou até conceitos gerais.
 
