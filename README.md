@@ -1,4 +1,4 @@
-# 🚀 Modos do Copiloto (Ask, Edit, Plan, Agent e Study)
+# 🚀 Modos do Copiloto (Ask, Edit, Plan, Agent e Study)(h2)
 
 
 # 🛠️ ASK -Pergunte
@@ -6,7 +6,7 @@
 
 -O Copiloto lê o contexto do projeto (arquivos abertos, seleção, etc.) e responde como um “mentor técnico” , explicando o que -está acontecendo e por quê. Ele não modifica nada — só analisa e explica.
 
-- **Minha Alteraçao:** adaldlakhd
+- **Minha Alteraçao:** 
 
  **Sugestão:** [prompts/prompt-ask.md](prompts/prompt-ask.md)
 
