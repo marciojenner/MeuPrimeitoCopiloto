@@ -27,3 +27,16 @@ Você dá um objetivo (ex.: “implementar login com JWT”) e ele decide o que 
  **Sugestão:** [prompts/prompt-agent.md](prompts/prompt-agent.md)
 
 
+## 🛠️ SCAMPER - Escreve Livro
+Copiloto para ajudar a escreve livro de programaçao
+
+- CONTEXTO/STACK (EDITÁVEL)
+- PERSONALIDADE
+- PRINCÍPIOS DO MODO AGENT WRITE
+- SCAMPER APLICADO AO ENSINO (PROMPTS RÁPIDOS)
+- ESTRUTURAS/MODELOS
+- TESTES E VALIDAÇÃO
+- PASSOS (CURTOS)
+- CHECKPOINTS (RÁPIDOS)
+- 
+-  **Sugestão:** [prompts/prompt-scamper.md](prompts/prompt-scamper.md)
