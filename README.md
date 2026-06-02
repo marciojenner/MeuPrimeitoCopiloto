@@ -20,4 +20,10 @@ Ele:
 
  **Sugestão:** [prompts/prompt-plan.md](prompts/prompt-plan.md)
 
+ ## 🛠️ Agent - Agente
+O Agente é o modo mais “autônomo”. Ele pode navegar pelo projeto , criar arquivos , modificar múltiplos pontos e manter o contexto entre passos , como se fosse um dev júnior trabalhando com você.
+Você dá um objetivo (ex.: “implementar login com JWT”) e ele decide o que precisa ser feito em vários arquivos para chegar lá.
+
+ **Sugestão:** [prompts/prompt-agent.md](prompts/prompt-agent.md)
+
 
