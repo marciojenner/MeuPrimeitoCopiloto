@@ -4,4 +4,6 @@
 
 -O Copiloto lê o contexto do projeto (arquivos abertos, seleção, etc.) e responde como um “mentor técnico” , explicando o que -está acontecendo e por quê. Ele não modifica nada — só analisa e explica.
 
- Sugestão:
+ Sugestão: [Texto do Link](caminho-para-o-arquivo-ou-pasta)
+
+ Sugestão: [prompts/prompt-ask.md](prompts/prompt-ask.md).
